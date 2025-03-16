@@ -14,10 +14,10 @@ Welcome to my GitHub! I'm a **final-year Computer Science student** passionate a
 ---
 
 ## 🛠️ Tech Stack & Tools  
-💻 **Languages:** Python | JavaScript | Java | C | C++ | SQL  
-🛠️ **Frameworks & Tools:** FastAPI | Node.js | React | TensorFlow | Redis | Docker  
-☁ **Cloud & DevOps:** Azure | Kubernetes | GitHub | Power Automate  
-📡 **Embedded Systems:** Raspberry Pi | IoT Sensors | Microcontrollers  
+💻 **Languages:** Python | JavaScript | Java | C | C++ | SQL | Java  
+🛠️ **Frameworks & Tools:**  FastAPI | Node.js | React | TensorFlow | Mongdb | postgreSQL 
+☁ **Cloud & DevOps:** Azure | Docker | GitHub | Power Automate | MiniO 
+📡 **Embedded Systems:** ESP 32 | IoT Sensors | Microcontrollers  
 
 ---
 
