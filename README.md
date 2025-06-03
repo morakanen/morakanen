@@ -30,7 +30,6 @@ Welcome to my GitHub! I'm a **final-year Computer Science student** passionate a
 
 ### 💳 Finance Onboarding & Anti-Fraud System  
 - Developed an **automated fraud detection system**, reducing manual processing by **70%**.  
-- Integrated **OCR (Tesseract, OpenCV)** for real-time document verification.  
 - 🛠 **Tech Stack:** React | FastAPI | PostgreSQL | MongoDB | Redis | Docker  
 
 ---
