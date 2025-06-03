@@ -29,8 +29,9 @@ Welcome to my GitHub! I'm a **final-year Computer Science student** passionate a
 - 🛠 **Tech Stack:** TensorFlow | Node.js | HTML | TailwindCSS  
 
 ### 💳 Finance Onboarding & Anti-Fraud System  
-- Developed an **automated fraud detection system**, reducing manual processing by **70%**.  
-- 🛠 **Tech Stack:** React | FastAPI | PostgreSQL | MongoDB | Redis | Docker  
+- Developed an **automated fraud detection system**, reducing manual processing by **70%**.
+- Used a XGboost model to assess risk of fraud in potential clients
+- 🛠 **Tech Stack:** React | FastAPI | PostgreSQL | scikit-learn | Docker  
 
 ---
 
